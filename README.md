@@ -1,7 +1,7 @@
 # Figma-Wireframes
 A collection of wireframes built from scratch using Figma.
-<br>
-Aug, 2023 -
+<hr>
+Aug. 2023 -
 Instagram Android UI
  - Screenshot on the left is from my phone
  - Image on the right is the wireframe I created using the reference on the left
