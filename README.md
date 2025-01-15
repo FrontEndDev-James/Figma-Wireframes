@@ -5,6 +5,7 @@ Aug. 2023 -
 Instagram Android UI
 <br>
  - Screenshot on the left is from my phone
+ <br>
  - Image on the right is the wireframe I created using the reference on the left
    
 Jan. 2025 -
