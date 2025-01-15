@@ -1,6 +1,6 @@
 # Figma-Wireframes
 A collection of wireframes built from scratch using Figma.
-<hr>
+
 ## Instagram Android UI
 
  - Screenshot on the left is from my phone used as a reference.
