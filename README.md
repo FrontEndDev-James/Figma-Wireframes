@@ -11,4 +11,7 @@ A collection of wireframes built from scratch using Figma.
  - This version is missing the user hud icons, but will be added in the next.
  - Icons are hand made including the progression bars.
 
-## Desktop Wireframes (WIP)
+## Desktop Wireframes 
+
+ - Basic Desktop SPA (Single Page Application)
+ - Features include contact form, checkbox to enable company newsletter, social media icon links, etc.
