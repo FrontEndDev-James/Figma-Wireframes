@@ -34,3 +34,4 @@ A collection of wireframes built from scratch using Figma.
 
  - Basic Desktop SPA (Single Page Application)
  - Features include contact form, checkbox to enable company newsletter, social media icon links, etc.
+ - Product Wireframe to be transformed into a concept TBD
